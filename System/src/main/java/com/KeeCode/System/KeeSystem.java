@@ -1,5 +1,7 @@
 package com.KeeCode.System;
 
-public class KeeSystem {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class KeeSystem extends JavaPlugin {
 
 }
